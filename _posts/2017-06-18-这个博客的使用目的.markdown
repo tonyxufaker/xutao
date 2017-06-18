@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "这个博客的使用目的"
+date:   2017-06-18 09:46:22 +0800
+categories: jekyll update
+---
+大家好，我是许涛，目前是一位产品经理。
+在github上开通这个博客的目的是为了记录一下自己的产品设计思路以及一些感兴趣的内容。
+其实还是为了给自己提供一个记录的平台，也是为了方便和其他人交流。
+今后我会分别按照以下的内容分类来记录：
+    产品设计经验
+    感兴趣的内容以及话题
+    最近在学习的东西
+    大家比较感兴趣的话题
+希望大家都能和我来交流！
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/
